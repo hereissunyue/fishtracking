@@ -6,7 +6,7 @@ Real-time Tracking and 3D Reconstruction of a Robotic Fish Utilizing Multi-Camer
 
 This is a toolbox for calibrating multiple-camera systems. The requirement of this toolbox is that two neighbor cameras in your system should be able to see some part of a calibration board at the same time. In general if the angle between the orientations of two neighbor cameras is no more than 90&deg;, this toolbox can work well for your system. 
 
-This toolbox also exploits some util codes from [Bouguet's calibration toolbox](http://www.vision.caltech.edu/bouguetj/calib_doc/)
+This toolbox also exploits some util codes from [Bouguet's calibration toolbox](http://www.vision.caltech.edu/bouguetj/calib_doc/) as well as Bo Li's work on this Toolbox
 
 ---
 ## Contents
