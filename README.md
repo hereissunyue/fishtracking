@@ -3,13 +3,8 @@ Real-time Tracking and 3D Reconstruction of a Robotic Fish Utilizing Multi-Camer
 
 1. Multi-Camera Calibration
 ---------------------------------
-# Multiple-camera System Calibration Toolbox for Matlab
 
 This is a toolbox for calibrating multiple-camera systems. The requirement of this toolbox is that two neighbor cameras in your system should be able to see some part of a calibration board at the same time. In general if the angle between the orientations of two neighbor cameras is no more than 90&deg;, this toolbox can work well for your system. 
-
-The toolbox is related to the paper: 
-
-A Multiple-Camera System Calibration Toolbox Using A Feature Descriptor-Based Calibration Pattern, submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2013. 
 
 This toolbox also exploits some util codes from [Bouguet's calibration toolbox](http://www.vision.caltech.edu/bouguetj/calib_doc/)
 
@@ -18,8 +13,6 @@ This toolbox also exploits some util codes from [Bouguet's calibration toolbox](
 
 * System requirements
 * Quick start
-* APIs descriptions
-* FAQs
 
 ---
 ## System requirements
@@ -192,10 +185,6 @@ The loading info displays how many valid features are detected from each image. 
 
 Press `ENTER` key and you will see the 3D plot of camera poses and visualized pose graph. NOTE your result for this demo maybe different from the above result. This is due to the sample images are not well synchronized yet. 
 
----
-## APIs descriptions
-
-Coming soon. 
 
 
 
