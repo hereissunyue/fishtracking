@@ -1,11 +1,14 @@
-ME433 Advanced Mechatronics
+Real-time Tracking and 3D Reconstruction of a Robotic Fish Utilizing Multi-Camera System
 ---------------------------------
-Assignment 1   [Source Code in C](https://github.com/hereissunyue/ME433/blob/master/HW1/hw1.X/hw1.c)
+
+1. Multi-Camera Calibration
+---------------------------------
+[Multi-Camera Calibration Tutorial](https://github.com/hereissunyue/fishtracking/blob/master/Calibration%20Toolbox/doc/multiple-camera_system_calibration_toolbox.md)
+Referenced from Bo Li's work on the toolbox
+<br>  
+<br> 
 
 
-1. Circuit Wiring
----------------------------------
-<img src="https://raw.githubusercontent.com/hereissunyue/ME433/master/HW1/figure/1.jpg">
 
 
 2. Waveforms
